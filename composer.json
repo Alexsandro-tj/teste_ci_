@@ -11,5 +11,7 @@
             "email": "alexsandrotj94@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
 }
